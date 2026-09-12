@@ -1,1 +1,1 @@
-# DSA
+# PYTHON practice
